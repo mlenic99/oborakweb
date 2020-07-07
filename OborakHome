@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Oborak</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="HomeStyle.css">
+</head>
+<body>
+        <nav>
+            <ul class="nav">
+                <li><a href="#Home">HOME</a></li>
+                <li><a href="#History">HISTORY</a></li>
+                <li><a href="#FindUs">FIND US</a></li>
+                <li><a href="#Contact">CONTACT</a></li>
+            </ul>
+        </nav>
+
+        <div class="header">
+            <hr id="Home" size="0" width="70%">
+            <h>OBORAK</h>
+            <hr size="0" width="70%">
+        </div>  
+
+    <article>
+        <div class="about">
+            <p> <img class="floatImg" src="C:/Users/USER/Desktop//kolegiji/ProjektniZadatak-Web/vdidineruke.jpeg" alt="slika">
+                <span>O</span>borak je drvena posuda nastala negdje u polovici 19. stoljeća, prvo od
+                cijepanih i tesanih dasaka, a pojavom pilana u Bošnjačkom kraju od rezanih dasaka. Svoju
+                renesansu doživljava oko sredine i u drugoj polovici 20. stoljeća. Oborak je nekada imao veliku uporabnu vrijednost. 
+                Njime su ljudi grabili žitarice: kukuruz, žito, zob… Služio je kod meljave u vodenici, suvari, mlinu – za brašno,
+                upotrebljavao se kod prehrane životinja, u njega se spremalo sjemenje, skladištio grah,
+                kalotine, suhe šljive; koristio se u polju kod sjetve i žetve, u njega su kokoši nosile jaja,
+                kvočke legle piliće.<br> <br> <br> Oborak je našim seljanima, svakog časa, u svim prigodama kroz cijelu
+                godinu bio u rukama. Valja spomeniti da je i dan danas ta drvena posuda okruglog oblika prisutna u mnogim kućanstvima 
+                našeg sela iako s drugačijim ciljem, a to je ukašavanje prostorija unikatnim predmetom. No dida Mato i još poneki 
+                starosjedilac iskorištavaju taj oborak hraneći marvu i skupljajući voće i povrće po avliji za fruštuk. 
+                Oborak je dio zavičajne baštine, odraz je običaja, socijalnih prilika, nasljeđa, odraz kvalitete života Bošnjačana i Bošnjakuša.
+            </p>
+        </div>
+        <br>
+        <!--<div class="citat">-->
+            <blockquote>
+                <p><i><strong>"Bošnjaci se nadaleko znaju, <br> Po oborcim i po šlingeraju."</i></p>
+                <p><i>"Oborke je prodavo moj dada, <br> A novce sam trošila ja mlada"</strong></i></p>
+            </blockquote>
+            
+        <!--</div>-->
+<br>
+        <div class="ImgHoldingIt">
+            <img src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/voborak.jpg" alt="Bošnjački oborak sa zemljom te tkanica prineseni u prikaznoj procesiji u zagrebačkoj katedrali">
+        </div>
+        <br>
+        <div class="about">
+            <p>
+                Po veličinii dijele se na velike i male, oblikom na okrugle i dugoljaste, a one s
+                poklopcem nazivamo kutija. U kutiju su za putovanja majstori – prodavači oboraka ili
+                seljaci kod odlaska na njivu, stavljali hranu ( kobasica, slanina, šunka, kruh, luk, sir,
+                kajmak… ). Oborak je zbog njegove povijesne važnosti za Bošnjačane na grbu i zastavi Bošnjaka.
+                Kazivači su rekli da je oborak prehranio mnoge obitelji u Bošnjačkom kraju. 
+            </p><br>
+
+    <div class="row">
+        <div class="column">
+          <img class="imgtreca" src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/izrezak.jpg" alt="Kukuruz u oborku"> 
+        </div>
+        <div class="column">
+            <img class="imgprva" src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/cuvajmotradiciju.jpg" alt="Oborci" height="230px" width="300px">
+          </div>
+        <div class="column">
+            <img class="imgdruga" src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/vrsenjeuoborak.jpg" alt="Oborak" height="250px" width="230px">
+          </div>
+      </div>
+      
+      <div id="History" class="spaceOne">
+        <p>a<br><br></p>
+      </div>
+      
+
+      <div class="headerHistory">
+        <h1>HISTORY</h1>
+      </div>
+
+      <div class="aboutHistory>">
+          <p>Saznanja o oborcima napravljenim u Bošnjacima sežu, po usmenoj predaji u 19. stoljeće,
+              a prvi pismeni tragovi o pravljenju oboraka u Bošnjacima su iz početka stoljeća.
+              Koliko smo mi istražili djelatnost izrade oboraka, na našim prostorima, zabilježena
+            je jedino u Bošnjacima. Gospodin Vinko Juzbašić i učitelj Gačić spominju da su oborak
+            vidjeli u Lurdu, u obiteljskoj kući sv. Bernardice. Oborak je raritet.
+            Postoje razni nazivi za oborak . Mi smo doznali za nekoliko naziva. Kod nas se koristi naziv
+            oborak ili uborak iako nam nisu nepoznati nazivi drvenka, merica, pola…
+              <br> </p></div>
+
+            <a href=http://casopis.hrsume.hr/pdf/067.pdf target="blanck">
+              <p style="float: right;">
+                <img class="casopis" src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/casopis.jpg"  title="Časopis 'Hrvatske šume', br. 67, 'Kako je nestao brijest'" usemap="#workmap">
+            </a>
+            </p>
+                <p>Prvi oborci koje su Šokci moga zavičaja izrađivali bili su od brijesta, drveta koje je
+                po zastupljenosti u Spačvanskom bazenu, šumskom kopleksu oko 52 000 hektara, bio na
+                trećem mjestu, odmah iza hrasta i jasena. Majstori kazivači su rekli da je brijest svojom
+                strukturom bio najpogodniji za savijanje oboraka. <br><br>Napadom holandske bolesti brijest 18 je
+                nestao iz slavonskih šuma. Od šumara smo doznali da danas može doživjeti starost samo do
+                15 godina , onda ugiba, a to je nedovoljna debljina za rezanje u dasku od kojih se mogu
+                savijati oborci. Postoji rijetki primjerak drveća skupina od 11 stabala nizinskog, poljskog brijesta 
+                (<i>Ulmus minor Miller</i>) starosti od 115 godina , visine 32 –
+                35 metara nalaze se na području Hrvatskih šuma, Uprava šuma Vinkovci, šumarije Vrbanja
+                (općina Drenovci). Danas ih živećih ima samo šest stabala. </p></div>
+                
+                <div class="headerprocesIzrade">
+                    <h2>Proces izrade</h2>
+                </div>
+
+                <div class="gridContainer">
+                    <div class="item item1">
+                        <p><b><u>1</u></b> Nakon dovlačenja potrebnog drveta iz šume, posao se prebacuje na traktor i cirkular
+                            koji će izrezati daske- prvi korak k jednom oborku.
+                        </p>
+                    </div>
+                    <div class="item item2">
+                        <p><b><u>2</u></b> Ubacivanje dasaka u "kantu za kuhanje".</p>
+                    </div>
+                    <div class="item item3">
+                        <p><b><u>3</u></b> Provlačenje kroz šajtov-posebna <br>naprava s metalnim
+                            zupcima, koji dropi i savija–oblikuje dasku</p>
+                    </div>
+                    <div class="item item4">
+                        <p><b><u>4</u></b> Okruživanje oboda oborka i zadnivanje samog oborka</p>
+                    </div>
+                    <div class="item item5">
+                        <p><b><u>Potreban alat</u></b><br> <br>Kanta, <br> šajtov, <br> menđele, <br> makla, <br> bradva, <br> tišljerska testera, <br> blanja, <br> drvena turpija, <br> ...</p>
+                    </div>
+                </div>
+
+                <div id="FindUs" class="spaceTwo">
+                    <p>a<br><br></p>
+                  </div>
+                
+                <div class="headerFindUs">
+                    <h1>Find us</h1>
+                </div>
+                <div class="imgSelo"><img src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/selo.jpg" alt="selo Bošnjaci iz zraka" height="268px" width="800px"></div>
+                <br>
+                <div class="about">
+                    <p>Bošnjaci su selo - općina (oko 4 000 stanovnika) u Vukovarsko-srijemskoj
+                        županiji, okruženo šumama Spačvanskog bazena. Južna granica bošnjačkog atara je rijeka
+                        Sava. Površina atara je 94.96 km², selo se nalazi na 81 metru nadmorske visine te
+                        45º23’ 49”N geografske širine i 17º57’ 06”E geografske dužine. Selo je s tri strane
+                        okruženo šumom. <br> <br>Naselje je ušorenog tipa (1186 kućanstava - domaćinstava). Dobro je spomenuti da su
+                        Bošnjačani poznati osim po oborcima još po šling: toledo, rišelje, rupice.
+                         Oborak je zbog njegove povijesne važnosti za Bošnjačane na grbu i zastavi Bošnjaka.
+                        Kazivači su rekli da je oborak prehranio mnoge obitelji u Bošnjačkom kraju.</p>
+                </div>
+                <br>
+                <div class="imgSelo"><img src="C:/Users/USER/Desktop/kolegiji/ProjektniZadatak-Web/grb.jpg" alt="grb Bošnjaka" height="300px" width="148px" title="Grb Bošnjaka">
+
+    </article>
+    <br>
+    <footer id="Contact">
+        <hr size="20" width="70%">
+        <br>
+        <div class="copyright&Contact">
+            <p>Više o temi na <a href="https://www.bosnjaci.hr/">stranici</a></p>
+            <p>Tel. 032/846-966</p>
+            <p>&#169 Copyright 2020 Martina Lenić</p>
+        </div>
+
+    </footer>
+    
+</body>
+</html>
